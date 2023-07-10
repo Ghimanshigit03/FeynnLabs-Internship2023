@@ -3,7 +3,13 @@
 <!---MLI Batch 27-22-S-B-->
 
 # :star: Feynn Labs Internship [2023]
-![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20sklearn-green?style=for-the-badge)
+### Languages and Tools:
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&style=flat-square&logoColor=white)](https://www.python.org/)
+[![pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&style=flat-square&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23D81B60.svg?logo=matplotlib&style=flat-square&logoColor=white)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&style=flat-square&logoColor=white)](https://scikit-learn.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2370398B.svg?logo=python&style=flat-square&logoColor=white)](https://seaborn.pydata.org/)
  
 This repository shows all the projects developed as a part of internship at Feynn Labs [Feynn Labs](https://feynnlabs.com/).
 
