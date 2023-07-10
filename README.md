@@ -13,7 +13,7 @@ This repository shows all the projects developed as a part of internship at Feyn
 
 <br>
 
-### :zap: [BigMarketSalesPrediction](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
+### :zap: [BigMarketSalesPrediction](https://github.com/Ghimanshigit03/FeynnLabs-Internship2023/tree/main/Project1-Big%20Market%20Sales%20Prediction)
 The BigMarket Sales Prediction Model is a machine learning model that predicts the sales of various products in BigMarket stores. It utilizes historical sales data and relevant features to make accurate predictions, enabling store managers to optimize inventory and make informed decisions.
 ***
 
