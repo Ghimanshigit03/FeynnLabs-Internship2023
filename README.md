@@ -17,7 +17,7 @@ This repository shows all the projects developed as a part of internship at Feyn
 The BigMarket Sales Prediction Model is a machine learning model that predicts the sales of various products in BigMarket stores. It utilizes historical sales data and relevant features to make accurate predictions, enabling store managers to optimize inventory and make informed decisions.
 ***
 
-### :zap: [McDonald EDA](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.0:%20Market%20Segmentation%20case%20study)
+### :zap: [McDonald EDA](https://github.com/Ghimanshigit03/FeynnLabs-Internship2023/tree/main/Project2.0-Market%20Segment%20Analysis)
 It contains the code for Exploratory Data Analysis (EDA) on the McDonald's dataset. The analysis aims to gain insights into the dataset, understand its structure, and explore relationships between variables. The McDonald's dataset consists of data related to various attributes of McDonald's food items, as well as customer feedback. It includes columns such as yummy 😋, convenient 🚶, spicy 🌶️, fattening 🍔, greasy 😬, fast ⏩, cheap 💰, tasty 😄, expensive 💸, healthy 🥗, disgusting 🤢, like 👍, age 🎂, visit frequency 🔄, and gender 👫.
 ***
 
