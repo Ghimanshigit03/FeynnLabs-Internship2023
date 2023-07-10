@@ -21,7 +21,7 @@ The BigMarket Sales Prediction Model is a machine learning model that predicts t
 It contains the code for Exploratory Data Analysis (EDA) on the McDonald's dataset. The analysis aims to gain insights into the dataset, understand its structure, and explore relationships between variables. The McDonald's dataset consists of data related to various attributes of McDonald's food items, as well as customer feedback. It includes columns such as yummy 😋, convenient 🚶, spicy 🌶️, fattening 🍔, greasy 😬, fast ⏩, cheap 💰, tasty 😄, expensive 💸, healthy 🥗, disgusting 🤢, like 👍, age 🎂, visit frequency 🔄, and gender 👫.
 ***
 
-### :zap: [Market Segmentation Analysis of the Indian Electric Vehicle Market](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India)
+### :zap: [Market Segmentation Analysis for Indian Electric Vehicle Market](https://github.com/Ghimanshigit03/FeynnLabs-Internship2023/tree/main/Project2.1-Electric%20Vehicle%20Market%20In%20India)
 During this 2nd project, I teamed up with four other members and worked as a team lead on analyzing the electric vehicles market in India using the Market Segmentation analysis and come up with a feasible strategy to enter the market by targeting the Geographic, Demographic, Psychographic, and Behavioral segments.
 ***
 
