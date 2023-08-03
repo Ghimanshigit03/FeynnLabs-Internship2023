@@ -31,5 +31,9 @@ It contains the code for Exploratory Data Analysis (EDA) on the McDonald's datas
 During this 2nd project, I teamed up with four other members and worked as a team lead on analyzing the electric vehicles market in India using the Market Segmentation analysis and come up with a feasible strategy to enter the market by targeting the Geographic, Demographic, Psychographic, and Behavioral segments.
 ***
 
+### :zap: [AI Product Service Prototype Development - Resume Screening](https://github.com/Ghimanshigit03/FeynnLabs-Internship2023/tree/main/Project3-AI%20Product%20Service%20Prototype%20Development%20-%20Resume%20Screening)
+Our Resume Screening System uses ML to suggest job roles to applicants and filters CVs for companies, streamlining the recruitment process. It offers customizable subscriptions for both job seekers and companies, ensuring an efficient and personalized experience. Join us in revolutionizing the job market! 💼🔎🚀
+***
+
 
 <br>
