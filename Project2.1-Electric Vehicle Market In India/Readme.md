@@ -13,5 +13,11 @@ Evaluate environmental consciousness, technological inclination, and social stat
 ### ⚙️ Behavioral: 
 Analyze commuting patterns, purchase decision factors, and brand loyalty.
 
+By analyzing these segments, we'll gain insights for a targeted market entry strategy, ensuring our EVs align with specific segment requirements and preferences
 
-By analyzing these segments, we'll gain insights for a targeted market entry strategy, ensuring our EVs align with specific segment requirements and preferences.
+### 💡 Github Links for other team members contribution 
+[Member 1](https://github.com/Ghimanshigit03/FeynnLabs-Internship2023/tree/main/Project2.1-Electric%20Vehicle%20Market%20In%20India)
+[Member 2](https://github.com/aryan311/Fynn_labs/tree/main/Electric_vehicles)
+[Member 3](https://github.com/Sadhasivam9/EV-Market-Segmentation-.git)
+[Member 4](https://github.com/Bhatnagar621/MS_EV.git)
+
